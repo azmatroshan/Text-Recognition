@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text Recognition</string>
+    <string name="image">image</string>
+    <string name="select">SELECT</string>
+    <string name="process">PROCESS</string>
+    <string name="result_text">Recognized text will be shown here</string>
+</resources>
